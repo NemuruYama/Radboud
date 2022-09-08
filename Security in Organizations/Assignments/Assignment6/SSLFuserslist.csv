@@ -1,0 +1,23 @@
+UserName;AcctLockedOut;AcctDisabled;FullName;Comment;Groups;PswdLastSetTime;PswdExpires;PswdRequired;LastLogonTime
+;;;;;;;;;
+Administrator;No ;Yes;;Built-in account for administering the computer/domain;Administrators;14-7-2009 6:13;No ;Yes;8-7-2014 10:08
+BKat;No ;No ;Bart Kat;Treasury;Users;12-12-2015 16:06;Yes;Yes;6-6-2012 15:55
+Guest;No ;No ;;Built-in account for guest access to the computer/domain;Guests;Never;No ;No ;Never
+HdeBos;No ;No ;Henk de Bos;ICT Administration;Administrators;Never;Yes;Yes;3-3-2015 15:55
+HdeBos;No ;No ;Henk de Bos;ICT Administration;Users;Never;Yes;Yes;3-3-2015 15:55
+JdeVriend;No ;No ;Jasper de Vriend;Secretary;Treasury;Never;Yes;Yes;11-12-2015 8:21
+JdeVriend;No ;No ;Jasper de Vriend;Secretary;Users;Never;Yes;Yes;11-12-2015 8:21
+JKlaasen;No ;No ;Jan Klaasen;Treasury;Treasury;23-11-2011 16:04;No ;Yes;11-12-2015 8:55
+JKlaasen;No ;No ;Jan Klaasen;Treasury;Users;23-11-2011 16:04;No ;Yes;11-12-2015 8:55
+JPetersen;No ;No ;Jose Pietersen;Financial Administration;Administrators;29-11-2015 8:04;Yes;Yes;11-12-2015 7:46
+JPetersen;No ;No ;Jose Pietersen;Financial Administration;Users;29-11-2015 8:04;Yes;Yes;11-12-2015 7:46
+MdeSnoo;No ;No ;Monique de Snoo;Reception;Treasury;18-11-2015 8:57;Yes;Yes;11-12-2015 8:51
+MdeSnoo;No ;No ;Monique de Snoo;Reception;Users;18-11-2015 8:57;Yes;Yes;11-12-2015 8:51
+MHond;No ;No ;Marieke Hond;Treasury;Treasury;1-12-2015 8:52;Yes;Yes;6-8-2014 10:13
+MHond;No ;No ;Marieke Hond;Treasury;Users;1-12-2015 8:52;Yes;Yes;6-8-2014 10:13
+PPietersen;No ;No ;Piet Pietersen;Treasury;Treasury;19-11-2010 8:51;No ;Yes;11-12-2015 8:13
+PPietersen;No ;No ;Piet Pietersen;Treasury;Users;19-11-2010 8:51;No ;Yes;11-12-2015 8:13
+TKorver;No ;No ;Tim Korver;Treasury;Treasury;17-11-2015 8:41;Yes;Yes;10-11-2015 8:23
+TKorver;No ;No ;Tim Korver;Treasury;Users;17-11-2015 8:41;Yes;Yes;10-11-2015 8:23
+WMaat;No ;Yes;Wouter Maat;ICT Administration;Administrators;Never;Yes;Yes;Never
+WMaat;No ;Yes;Wouter Maat;ICT Administration;Users;Never;Yes;Yes;Never

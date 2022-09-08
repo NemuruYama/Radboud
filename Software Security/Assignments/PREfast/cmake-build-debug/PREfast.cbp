@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PREfast"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PREfast">
+				<Option output="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/cmake-build-debug/PREfast.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude"/>
+					<Add directory="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude"/>
+					<Add directory="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/CodeAnalysis"/>
+					<Add directory="E:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="E:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 PREfast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PREfast/fast">
+				<Option output="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/cmake-build-debug/PREfast.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude"/>
+					<Add directory="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude"/>
+					<Add directory="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/CodeAnalysis"/>
+					<Add directory="E:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="E:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 PREfast/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;E:\OneDrive\Radboud\Software Security\Assignments\PREfast\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/LucasVanDerLaan_prefast_exercise.cpp">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/BaseTsd.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/CdErr.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/CommDlg.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/Dde.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/Dlgs.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/Guiddef.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/Imm.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/LZExpand.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/MMSystem.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/Mcx.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/Nb30.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/Ole2.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/PopPack.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/PshPack1.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/PshPack2.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/PshPack4.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/PshPack8.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/Reason.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/Rpc.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/ShellAPI.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/StrAlign.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/Tvout.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinBase.Inl">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinBase.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinCon.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinCrypt.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinDef.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinEFS.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinError.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinGDI.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinNT.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinNetWk.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinNls.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinPerf.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinReg.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinResrc.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinSCard.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinSock.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinSpool.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinSvc.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinUser.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/WinVer.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/Windows.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/ktmtypes.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/ole.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/sdkddkver.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/specstrings.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/specstrings_adt.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/specstrings_strict.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkinclude/specstrings_undef.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/CodeAnalysis/Warnings.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/CodeAnalysis/sourceannotations.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/crtassem.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/crtdefs.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/ctype.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/excpt.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/limits.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/malloc.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/memory.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/sal.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/stdafx.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/stdarg.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/stddef.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/stdexcpt.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/stdio.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/stdlib.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/string.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/swprintf.inl">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/tchar.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/sdkvcinclude/vadefs.h">
+			<Option target="PREfast"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Radboud/Software Security/Assignments/PREfast/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,295 @@
+\documentclass[12pt,a4paper,final,onecolumn,oneside]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper, portrait, margin=25mm]{geometry}
+\usepackage[english]{babel}
+\usepackage{enumitem}
+\usepackage{amsmath}
+
+\usepackage{titling} 
+\newcommand{\subtitle}[1]{%Subtitle to add group number
+  \posttitle{%
+    \par\end{center}
+    \begin{center}\large#1\end{center}}%
+}
+
+\makeatletter
+\renewcommand*\env@matrix[1][*\c@MaxMatrixCols c]{%
+  \hskip -\arraycolsep
+  \let\@ifnextchar\new@ifnextchar
+  \array{#1}}
+\makeatother
+
+\title{Introduction to Cryptography: Assignment 1}
+\subtitle{Group number 57}
+\author{Elwin Tamminga \\ s1013846 \\ 
+\and Lucas van der Laan \\ s1047485}
+\date{}
+
+\begin{document}
+
+\fontsize{12pt}{13pt}\fontfamily{ptm}\selectfont
+
+\maketitle
+
+
+\section{}
+
+\begin{enumerate}[label=(\alph*)]
+    \item Because the server can not authenticate the client, a man-in-the-middle attack can be achieved. An adversary also has access to the shared key because the client is not authenticated towards the server. Because the adversary has access to the shared key, they can decrypt the messages which leads to a loss of confidentiality.
+    \item Yes, because the public keys used for the signature schemes are authenticated, the server can verify using the public key of the client that the message is signed by the client's private key. If the signature is valid, we can verify that the message has not been modified.
+    \item Yes, assuming the client's private key is not leaked, the server can assume that the signed message came from the client using the public key, who used their private key to create the signature.
+\end{enumerate}
+
+\section{}
+\begin{enumerate}[label=(\alph*)]
+    \item
+    \begin{equation*}
+    M = 
+    \begin{pmatrix}
+    . & . & . & 1 \\
+    1 & . & . & . \\
+    . & 1 & . & . \\
+    . & . & 1 & 1 \\
+    \end{pmatrix}
+    \end{equation*}
+    \item
+    \emph{Given states are from iteration 0 ($s^0$)}
+    
+    \begin{equation*}
+    s^1 = 
+    \begin{pmatrix}
+    s_3 \\
+    s_0 \\
+    s_1  \\
+    s_2 + s_3 \\
+    \end{pmatrix}
+    \end{equation*}
+    
+    \begin{equation*}
+    s^2 = 
+    \begin{pmatrix}
+    s_2 + s_3 \\
+    s_3 \\
+    s_0 \\
+    s_1 + (s_2 + s_3) \\
+    \end{pmatrix}
+    \end{equation*}
+    
+    $z_2 = s_1 + s_2 + s_3$
+    \item
+    \emph{Given states are from iteration 0 ($s^0$)}
+    \begin{equation*}
+    s^3 = 
+    \begin{pmatrix}
+    s_1 + (s_2 + s_3) \\
+    s_2 + s_3 \\
+    s_3 \\
+    s_0 + (s_1 + (s_2 + s_3)) \\
+    \end{pmatrix}
+    \end{equation*}
+    
+    $z_3 = s_0 + s_1 + s_2 + s_3$
+    
+    \item
+    \begin{equation*}
+        \begin{aligned}
+        s^t &= M^t * s^0 \\
+        z_t &= s^t_3 \\
+        \end{aligned}
+    \end{equation*}
+    
+    \begin{equation*}
+    M^2 = M * M =
+    \begin{pmatrix}
+    . & . & 1 & 1 \\
+    . & . & . & 1 \\
+    1 & . & . & . \\
+    . & 1 & 1 & 1 \\
+    \end{pmatrix}
+    \end{equation*}
+    
+    \begin{equation*}
+    M^3 = M * M^2 =
+    \begin{pmatrix}
+    . & 1 & 1 & 1 \\
+    . & . & 1 & 1 \\
+    . & . & . & 1 \\
+    1 & 1 & 1 & 1 \\
+    \end{pmatrix}
+    \end{equation*}
+
+    \begin{equation*}
+    M^6 = M^3 * M^3 =
+    \begin{pmatrix}
+    1 & 1 & . & 1 \\
+    1 & 1 & 1 & . \\
+    1 & 1 & 1 & 1 \\
+    1 & . & 1 & . \\
+    \end{pmatrix}
+    \end{equation*}
+    
+    \begin{equation*}
+    M^8 = M^6 * M^2 =
+    \begin{pmatrix}
+    . & 1 & . & 1 \\
+    1 & . & 1 & . \\
+    1 & 1 & . & 1 \\
+    1 & . & 1 & 1 \\
+    \end{pmatrix}
+    \end{equation*}
+    
+    \begin{equation*}
+        M^{14} = M^6 * M^8 =
+        \begin{pmatrix}
+        . & 1 & . & . \\
+        . & . & 1 & . \\
+        1 & . & . & 1 \\
+        1 & . & . & . \\
+        \end{pmatrix}
+    \end{equation*}
+            
+    
+    \begin{equation*}
+    \begin{aligned}
+        z_3 &= s_0 + s_1 + s_2 + s_3 \\
+        z_6 &= s_0 + s_2 \\
+        z_8 &= s_0 + s_2 + s_3 \\
+        z_{14} &= s_0 \\
+        z &= (z_3, z_6, z_8, z_{14})^T \\ &= ((s_0 + s_1 + s_2 + s_3), (s_0 + s_2), (s_0 + s_2 + s_3), (s_0))^T \\
+        &=
+        \begin{pmatrix}
+            s_0 + s_1 + s_2 + s_3 \\
+            s_0 + s_2 \\
+            s_0 + s_2 + s_3 \\
+            s_0 \\
+        \end{pmatrix} \\
+        N &=
+        \begin{pmatrix}
+        1 & 1 & 1 & 1 \\
+        1 & . & 1 & . \\
+        1 & . & 1 & 1 \\
+        1 & . & . & . \\
+        \end{pmatrix}
+    \end{aligned}
+    \end{equation*}
+
+    \item
+    \begin{equation*}
+    \begin{aligned}
+    s^0 &= N^{-1} * z \\
+    N * N^{-1} &=
+        \begin{pmatrix}
+        1 & 0 & 0 & 0 \\
+        0 & 1 & 0 & 0 \\
+        0 & 0 & 1 & 0 \\
+        0 & 0 & 0 & 1 \\
+        \end{pmatrix} \\
+    &
+    \begin{pmatrix}[cccc|cccc]
+        1 & 1 & 1 & 1   &   1 & 0 & 0 & 0 \\
+        1 & 0 & 1 & 0   &   0 & 1 & 0 & 0 \\
+        1 & 0 & 1 & 1   &   0 & 0 & 1 & 0 \\
+        1 & 0 & 0 & 0   &   0 & 0 & 0 & 1 \\
+    \end{pmatrix} \\
+    &R_2 = R_2 - R_1 \\ &R_3 = R_3 - R_1 \\ &R_4 = R_4 - R_1 \\
+    &\xrightarrow[]{}
+    \begin{pmatrix}[cccc|cccc]
+        1 & 1 & 1 & 1    &   1 & 0 & 0 & 0 \\
+        0 & -1 & 0 & -1  &   -1 & 1 & 0 & 0 \\
+        0 & -1 & 0 & 0   &   -1 & 0 & 1 & 0 \\
+        0 & -1 & -1 & -1 &   -1 & 0 & 0 & 1 \\
+    \end{pmatrix} \\
+    &R_2 = R_2 * -1 \\
+    &\xrightarrow[]{}
+    \begin{pmatrix}[cccc|cccc]
+        1 & 1 & 1 & 1    &   1 & 0 & 0 & 0 \\
+        0 & 1 & 0 & 1    &   1 & -1 & 0 & 0 \\
+        0 & -1 & 0 & 0   &   -1 & 0 & 1 & 0 \\
+        0 & -1 & -1 & -1 &   -1 & 0 & 0 & 1 \\
+    \end{pmatrix} \\
+    &R_3 = R_3 + R_2, R_4 = R_4 + R_2 \\
+    &\xrightarrow[]{}
+    \begin{pmatrix}[cccc|cccc]
+        1 & 1 & 1 & 1    &   1 & 0 & 0 & 0 \\
+        0 & 1 & 0 & 1    &   1 & -1 & 0 & 0 \\
+        0 & 0 & 0 & 1    &   0 & -1 & 1 & 0 \\
+        0 & 0 & -1 & 0   &   0 & -1 & 0 & 1 \\
+    \end{pmatrix} \\
+    &R_4 = R_4 * -1 \\
+    &\xrightarrow[]{}
+    \begin{pmatrix}[cccc|cccc]
+        1 & 1 & 1 & 1    &   1 & 0 & 0 & 0 \\
+        0 & 1 & 0 & 1    &   1 & -1 & 0 & 0 \\
+        0 & 0 & 0 & 1    &   0 & -1 & 1 & 0 \\
+        0 & 0 & 1 & 0    &   0 & 1 & 0 & -1 \\
+    \end{pmatrix} \\
+    &R_4 \longleftrightarrow R_3 \\
+    &\xrightarrow[]{}
+    \begin{pmatrix}[cccc|cccc]
+        1 & 1 & 1 & 1    &   1 & 0 & 0 & 0 \\
+        0 & 1 & 0 & 1    &   1 & -1 & 0 & 0 \\
+        0 & 0 & 1 & 0    &   0 & 1 & 0 & -1 \\
+        0 & 0 & 0 & 1    &   0 & -1 & 1 & 0 \\
+    \end{pmatrix} \\
+    &R_1 = R_1 - R_2 - R_3  \\
+    &\xrightarrow[]{}
+    \begin{pmatrix}[cccc|cccc]
+        1 & 0 & 0 & 0    &   0 & 0 & 0 & 1 \\
+        0 & 1 & 0 & 1    &   1 & -1 & 0 & 0 \\
+        0 & 0 & 1 & 0    &   0 & 1 & 0 & -1 \\
+        0 & 0 & 0 & 1    &   0 & -1 & 1 & 0 \\
+    \end{pmatrix} \\
+    &R_2 = R_2 - R_4  \\
+    &\xrightarrow[]{}
+    \begin{pmatrix}[cccc|cccc]
+        1 & 0 & 0 & 0    &   0 & 0 & 0 & 1 \\
+        0 & 1 & 0 & 0    &   1 & 0 & -1 & 0 \\
+        0 & 0 & 1 & 0    &   0 & 1 & 0 & -1 \\
+        0 & 0 & 0 & 1    &   0 & -1 & 1 & 0 \\
+    \end{pmatrix} \\
+    \end{aligned}
+    \end{equation*}
+    
+    \begin{equation*}
+        \begin{aligned}
+            N^{-1} &= 
+            \begin{pmatrix}[cccc]
+                0 & 0 & 0 & 1 \\
+                1 & 0 & -1 & 0 \\
+                0 & 1 & 0 & -1 \\
+                0 & -1 & 1 & 0 \\
+            \end{pmatrix} \\
+        \end{aligned}
+    \end{equation*}
+    
+    \begin{equation*}
+        \begin{aligned}
+            N^{-1} * z &= s^0 \\
+            \begin{pmatrix}
+                0 & 0 & 0 & 1 \\
+                1 & 0 & -1 & 0 \\
+                0 & 1 & 0 & -1 \\
+                0 & -1 & 1 & 0 \\
+            \end{pmatrix}
+            *
+            \begin{pmatrix}
+                1 \\
+                1 \\
+                0 \\
+                1 \\
+            \end{pmatrix}
+            &=
+            \begin{pmatrix}
+                0*1 + 0*1 + 0*0 + 1*1 &= 1 \\
+                1*1 + 0*1 + -1*0 + 0*1 &= 1 \\
+                0 * 1 + 1 * 1 + 0 * 0 + -1 * 1 &= 0 \\
+                0 * 1 + -1 * 1 + 1 * 0 + 0 * 1 &= 1 \\
+            \end{pmatrix}
+        \end{aligned}
+    \end{equation*}
+     
+
+\end{enumerate}
+
+\end{document}

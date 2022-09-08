@@ -1,0 +1,3666 @@
+{
+    "num_reqs": 397,
+    "num_requests_w_cookies": 237,
+    "num_responses_w_cookies": 65,
+    "third_party_domains": [
+        "313.nl",
+        "360yield.com",
+        "adnxs.com",
+        "brandmetrics.com",
+        "contentinsights.com",
+        "creative-serving.com",
+        "cxense.com",
+        "digitalaudience.io",
+        "doubleclick.net",
+        "dpgmedia.cloud",
+        "dpgmedia.net",
+        "dpgmedia.nl",
+        "dpgmmservices.nl",
+        "dpns-notifications.com",
+        "facebook.net",
+        "fonts.googleapis.com",
+        "gigya.com",
+        "google-analytics.com",
+        "googletagmanager.com",
+        "gstatic.com",
+        "hotjar.com",
+        "jquery.com",
+        "jwplatform.com",
+        "newrelic.com",
+        "nr-data.net",
+        "pbstck.com",
+        "pexi.nl",
+        "plista.com",
+        "rubiconproject.com",
+        "scorecardresearch.com",
+        "smartclip.net",
+        "smartocto.com",
+        "usabilla.com",
+        "visualwebsiteoptimizer.com"
+    ],
+    "domains_w_cookies": [
+        ".360yield.com",
+        ".accounts.nu.nl",
+        ".adnxs.com",
+        ".api.persgroep.cloud",
+        ".bd.313.nl",
+        ".cdns.eu1.gigya.com",
+        ".cxense.com",
+        ".doubleclick.net",
+        ".dpgmedia.net",
+        ".dpgmedia.nl",
+        ".nr-data.net",
+        ".nu.nl",
+        ".rubiconproject.com",
+        ".scorecardresearch.com",
+        ".target.digitalaudience.io",
+        ".www.nu.nl",
+        "beak.bigdata.dpgmmservices.nl",
+        "cxense.com",
+        "dpgmedia.net",
+        "myprivacy.dpgmedia.nl",
+        "nu.nl",
+        "target.digitalaudience.io",
+        "www.nu.nl"
+    ],
+    "server_countries": [
+        "Finland",
+        "France",
+        "Germany",
+        "Ireland",
+        "Netherlands",
+        "Portugal",
+        "United States"
+    ],
+    "xorigin_cookie_domains": [
+        ".bd.313.nl",
+        ".cdns.eu1.gigya.com",
+        ".cxense.com",
+        ".doubleclick.net",
+        ".dpgmedia.net",
+        ".dpgmedia.nl",
+        ".nu.nl",
+        ".rubiconproject.com",
+        ".scorecardresearch.com",
+        ".target.digitalaudience.io",
+        "beak.bigdata.dpgmmservices.nl",
+        "cxense.com",
+        "dpgmedia.net",
+        "target.digitalaudience.io"
+    ],
+    "requests": [
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/economie/6185623/vervoerders-op-volle-sterkte-ondanks-uitval-personeel.html"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/privacy-gate/accept?redirectUri=https%3A%2F%2Fwww.nu.nl%2F&authId=078c1bc3-86d7-45b2-9816-8b5361c97bb1&referre"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 3,
+            "is_tracker": false,
+            "url_first_128_char": "https://myprivacy.dpgmedia.nl/consent/?siteKey=ucf98legs1caotgh&callbackUrl=https%3A%2F%2Fwww.nu.nl%2Fprivacy-gate%2Faccept%3Fre"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/"
+        },
+        {
+            "request_domain": "fonts.googleapis.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&subset=latin-ext"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/bundles/css/app.16d60ef6.css"
+        },
+        {
+            "request_domain": "dpgmedia.cloud",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://advertising-cdn.dpgmedia.cloud/web-advertising/13/0/4/advert-xandr.js"
+        },
+        {
+            "request_domain": "dpgmedia.cloud",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://advertising-cdn.dpgmedia.cloud/web-advertising/prebid.js"
+        },
+        {
+            "request_domain": "dpgmedia.cloud",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://advertising-cdn.dpgmedia.cloud/header-bidding/prod/nunl/e1fbc4e3db779347a3e1ec14cbeb75766debffc0.js"
+        },
+        {
+            "request_domain": "jwplatform.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://content.jwplatform.com/libraries/whqXCOFb.js"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/js/gigya.js?apiKey=3_7sfOtbY8gzx5ydlcXfJKWkcfkkzAnbMmbxVyRrSY57itzhCeED67Dv6CvQiYjY0X"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/bundles/js/fastjs.6526ab5b.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.1f96a412198e.js"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://login-static.dpgmedia.net/ssosession/main.js"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://myprivacy-static.dpgmedia.net/consent.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/nu_logo.svg?v=1"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/nuheart.svg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/ot8xap8ace1d_xwd1280.jpg/gijzelnemer-apple-store-had-explosief-materiaal-op-lichaam-stond-niet-op-scherp.j"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/placeholders/std320-o.png"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/placeholders/xwd1280-o.png"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/placeholders/wd320-o.png"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.315b0124ca47.js"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://myprivacy-static.dpgmedia.net/consent.js"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://myprivacy-static.dpgmedia.net/consent/resources/logos/dpgmedia-logo.svg"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://myprivacy-static.dpgmedia.net/consent/resources/logos/logo-nu.svg"
+        },
+        {
+            "request_domain": "googletagmanager.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.googletagmanager.com/gtm.js?id=GTM-NT4WR7C"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cmp.dpgmedia.nl/unified/wrapperMessagingWithoutDetection.js"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://myprivacy-static.dpgmedia.net/consent/resources/backgrounds/nu.png"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://myprivacy-static.dpgmedia.net/consent/resources/fonts/Montserrat-Regular.ttf"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/analytics.js"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://sp.dpgmedia.net/Cd47FPkRXzy5tMeertNeUPW_v3.js"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cmp.dpgmedia.nl/unified/3.4.0/gdpr-tcf.1c6fa4a355d1d368d602.bundle.js"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cmp.dpgmedia.nl/wrapper/v2/get_messages?requestUUID=a49801bf-ae90-4817-9e0b-3d07d6ca247b&hasCsp=true&env=prod"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cmp.dpgmedia.nl/wrapper/v2/get_messages?requestUUID=a49801bf-ae90-4817-9e0b-3d07d6ca247b&hasCsp=true&env=prod"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=1168311653&t=pageview&_s=1&dl=https%3A%2F%2Fmyprivacy.dpgmedia.nl%2F"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 7,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://myprivacy.dpgmedia.nl/favicon.ico"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=1168311653&t=event&ni=0&_s=1&dl=https%3A%2F%2Fmyprivacy.dpgmedia.nl%"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cmp.dpgmedia.nl/index.html?message_id=601635&consentUUID=f8a6f7f9-8b14-4dbc-9b68-af274be42d5f_4&requestUUID=a49801bf-ae9"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cmp.dpgmedia.nl/Notice.03819.css"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cmp.dpgmedia.nl/polyfills.d36c5.js"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cmp.dpgmedia.nl/Notice.70828.js"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 8,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://myprivacy.dpgmedia.nl/consent/resources/logos/logo-nu.svg"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 8,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://myprivacy.dpgmedia.nl/consent/resources/logos/none.png"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 8,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://myprivacy.dpgmedia.nl/consent/resources/logos/logo-dpgmedia.svg"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=1168311653&t=event&ni=0&_s=1&dl=https%3A%2F%2Fmyprivacy.dpgmedia.nl%"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://myprivacy.dpgmedia.nl/consent/resources/fonts/Montserrat-SemiBold.woff"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://myprivacy.dpgmedia.nl/consent/resources/fonts/Montserrat-Regular.woff2"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cmp.dpgmedia.nl/wrapper/v2/messages/choice/gdpr/11?requestUUID=a49801bf-ae90-4817-9e0b-3d07d6ca247b&hasCsp=true&env=prod"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=1168311653&t=event&ni=0&_s=1&dl=https%3A%2F%2Fmyprivacy.dpgmedia.nl%"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=1168311653&t=event&ni=0&_s=1&dl=https%3A%2F%2Fmyprivacy.dpgmedia.nl%"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cmp.dpgmedia.nl/wrapper/v2/messages/choice/gdpr/11?requestUUID=a49801bf-ae90-4817-9e0b-3d07d6ca247b&hasCsp=true&env=prod"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://myprivacy.dpgmedia.net/audits"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://myprivacy.dpgmedia.net/consent.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cmp.nu.nl/unified/wrapperMessagingWithoutDetection.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cmp.nu.nl/unified/3.4.0/gdpr-tcf.1c6fa4a355d1d368d602.bundle.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cmp.nu.nl/wrapper/v2/get_messages?requestUUID=b3284d74-a517-4c06-b4db-f18840af382e&hasCsp=true&env=prod"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cmp.nu.nl/wrapper/v2/get_messages?requestUUID=b3284d74-a517-4c06-b4db-f18840af382e&hasCsp=true&env=prod"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/favicon.ico"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/favicon.ico"
+        },
+        {
+            "request_domain": "fonts.googleapis.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&subset=latin-ext"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/bundles/css/app.16d60ef6.css"
+        },
+        {
+            "request_domain": "dpgmedia.cloud",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://advertising-cdn.dpgmedia.cloud/web-advertising/13/0/4/advert-xandr.js"
+        },
+        {
+            "request_domain": "dpgmedia.cloud",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://advertising-cdn.dpgmedia.cloud/web-advertising/prebid.js"
+        },
+        {
+            "request_domain": "dpgmedia.cloud",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://advertising-cdn.dpgmedia.cloud/header-bidding/prod/nunl/e1fbc4e3db779347a3e1ec14cbeb75766debffc0.js"
+        },
+        {
+            "request_domain": "jquery.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://code.jquery.com/jquery-3.5.1.min.js"
+        },
+        {
+            "request_domain": "jwplatform.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://content.jwplatform.com/libraries/whqXCOFb.js"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/js/gigya.js?apiKey=3_7sfOtbY8gzx5ydlcXfJKWkcfkkzAnbMmbxVyRrSY57itzhCeED67Dv6CvQiYjY0X"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/bundles/js/fastjs.6526ab5b.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.1f96a412198e.js"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://login-static.dpgmedia.net/ssosession/main.js"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://myprivacy-static.dpgmedia.net/consent.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/nu_logo.svg?v=1"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/nuheart.svg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/ot8xap8ace1d_xwd1280.jpg/gijzelnemer-apple-store-had-explosief-materiaal-op-lichaam-stond-niet-op-scherp.j"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/placeholders/std320-o.png"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/placeholders/xwd1280-o.png"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/placeholders/wd320-o.png"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/menu/nu.svg?v=1"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/olbxjngacpd2_sqr64.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/xx7x8nkane74_sqr64.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/evbx5sqabz62_sqr64.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/5s0xnazafegh_sqr64.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/placeholders/wd1280-o.png"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/nu_logo.svg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/dpgmedia-logo.svg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/dpgmedia-logo-darkmode.svg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://temptation.nu.nl/temptation.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.c40b4e115a81.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/bundles/js/app.dc948809.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.fc57908ec4df.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.97a3ae6ffc52.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.a95c287dbd14.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.315b0124ca47.js"
+        },
+        {
+            "request_domain": "dpgmmservices.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://account.dpgmmservices.nl/js/sa-data-service.min.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/vendor/filesize/filesize.js?v=6"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/js/s3upload.js?v=6"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/js/filedragdrop.js?v=6"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/js/organisms/contribution/nu.contribution_flow.js?v=6"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/js/organisms/tealium/nu.tealium.recommendations.js?v=6"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/js/organisms/topbar/init.js?v=6"
+        },
+        {
+            "request_domain": "googletagmanager.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.googletagmanager.com/gtm.js?id=GTM-N2NWCN7"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cmp.nu.nl/unified/wrapperMessagingWithoutDetection.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cmp.nu.nl/unified/3.4.0/gdpr-tcf.1c6fa4a355d1d368d602.bundle.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cmp.nu.nl/wrapper/v2/get_messages?requestUUID=cfd21e85-1d78-4130-88ac-73f1f01c7bb9&hasCsp=true&env=prod"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cmp.nu.nl/wrapper/v2/get_messages?requestUUID=cfd21e85-1d78-4130-88ac-73f1f01c7bb9&hasCsp=true&env=prod"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/vendor/fontawesome/fonts/fontawesome-webfont.eot?v=4.3.0"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/molecules/components/dotted_v.png"
+        },
+        {
+            "request_domain": "adnxs.com",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://acdn.adnxs.com/ast/ast.js"
+        },
+        {
+            "request_domain": "brandmetrics.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cdn.brandmetrics.com/survey/script/d07e0dadbafb478da44a6551e12d4416.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/vendor/vwo/vwo-v2.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 6,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/vendor/fontawesome/fonts/fontawesome-webfont.woff2?v=4.3.0"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://sp.dpgmedia.net/Cd47FPkRXzy5tMeertNeUPW_v3.js"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/analytics.js"
+        },
+        {
+            "request_domain": "hotjar.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://static.hotjar.com/c/hotjar-232068.js?sv=7"
+        },
+        {
+            "request_domain": "googletagmanager.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.googletagmanager.com/gtm.js?id=GTM-TK3PJZT&l=dataLayer"
+        },
+        {
+            "request_domain": "smartclip.net",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://ad.sxp.smartclip.net/ads?type=dyn&plc=109248&sz=1x1&consent=undefined&rnd=1645630117"
+        },
+        {
+            "request_domain": "dpgmmservices.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 2,
+            "is_tracker": false,
+            "url_first_128_char": "https://beak.bigdata.dpgmmservices.nl/1.0/track"
+        },
+        {
+            "request_domain": "scorecardresearch.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sb.scorecardresearch.com/cs/11464450/beacon.js"
+        },
+        {
+            "request_domain": "pbstck.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://boot.pbstck.com/v1/tag/32608dbf-649c-46ca-b6ab-e58cbfad16a1"
+        },
+        {
+            "request_domain": "doubleclick.net",
+            "server_country": "Portugal",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://cm.g.doubleclick.net/pixel?google_nid=improvedigital&google_cm&google_sc&gdpr=1&consent=CPU3ks9PU3ks9AGABCENCDCoAPLAAAAA"
+        },
+        {
+            "request_domain": "doubleclick.net",
+            "server_country": "Portugal",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://cm.g.doubleclick.net/pixel?google_nid=appnexus&google_cm&google_sc&google_dbm&consent=CPU3ks9PU3ks9AGABCENCDCoAPLAAAAAAB"
+        },
+        {
+            "request_domain": "usabilla.com",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://w.usabilla.com/b015eda4e668.js?lv=1"
+        },
+        {
+            "request_domain": "brandmetrics.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cdn.brandmetrics.com/scripts/bundle/69834047.js"
+        },
+        {
+            "request_domain": "scorecardresearch.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sb.scorecardresearch.com/internal-cs/default/beacon.js"
+        },
+        {
+            "request_domain": "doubleclick.net",
+            "server_country": "Portugal",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 2,
+            "is_tracker": true,
+            "url_first_128_char": "https://cm.g.doubleclick.net/pixel?google_nid=appnexus&google_cm=&google_sc=&google_dbm=&consent=CPU3ks9PU3ks9AGABCENCDCoAPLAAAA"
+        },
+        {
+            "request_domain": "doubleclick.net",
+            "server_country": "Portugal",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 2,
+            "is_tracker": true,
+            "url_first_128_char": "https://cm.g.doubleclick.net/pixel?google_nid=improvedigital&google_cm=&google_sc=&gdpr=1&consent=CPU3ks9PU3ks9AGABCENCDCoAPLAAA"
+        },
+        {
+            "request_domain": "visualwebsiteoptimizer.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://dev.visualwebsiteoptimizer.com/j.php?a=323452&u=https%3A%2F%2Fwww.nu.nl%2F&r=0.47399711231862995"
+        },
+        {
+            "request_domain": "360yield.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://ad.360yield.com/match?publisher_dsp_id=55&gdpr=1&consent=CPU3ks9PU3ks9AGABCENCDCoAPLAAAAAABpYIXNX_T7dbWNC-f59bvswOYxf9tC"
+        },
+        {
+            "request_domain": "adnxs.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://ib.adnxs.com/setuid?entity=101&consent=CPU3ks9PU3ks9AGABCENCDCoAPLAAAAAABpYIXNX_T7dbWNC-f59bvswOYxf9tCNJ-QjABaJJ2gBwRqQM"
+        },
+        {
+            "request_domain": "hotjar.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://script.hotjar.com/modules.2219a8a77299faf480a7.js"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/plugins/ua/linkid.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://temptation.nu.nl/rest/zones/johannesburg/_resolve_from_website?contentUrl=https%3A%2F%2Fwww.nu.nl%2F&paid=false&tracking"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 5,
+            "num_response_cookies": 2,
+            "is_tracker": true,
+            "url_first_128_char": "https://temptation.nu.nl/rest/zones/johannesburg/_resolve_from_website?contentUrl=https%3A%2F%2Fwww.nu.nl%2F&paid=false&tracking"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 8,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/api/config/live_database_shards"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 8,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/block/lean_json/articlelist?limit=20&offset=0&source=latest&filter=site"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 4,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://login.dpgmedia.nl/ssosession"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/sdk.config.get?apiKey=3_7sfOtbY8gzx5ydlcXfJKWkcfkkzAnbMmbxVyRrSY57itzhCeED67Dv6CvQiYjY0X&httpStatusCo"
+        },
+        {
+            "request_domain": "gstatic.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://fonts.gstatic.com/s/notosans/v25/o-0IIpQlx3QUlC5A4PNr5TRA.woff2"
+        },
+        {
+            "request_domain": "scorecardresearch.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://sb.scorecardresearch.com/b?c1=2&c2=11464450&ns_site=total&cs_fpid=undefined&nmo_01=&nmo_02=1&nmo_05=0&nmo_10=1&nb_01=San"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "pbstck.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cdn.pbstck.com/index-monitoring-8ac652b.js"
+        },
+        {
+            "request_domain": "brandmetrics.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://collector.brandmetrics.com/c.js?siteid=d07e0dad-bafb-478d-a44a-6551e12d4416&toploc=www.nu.nl&rnd=3738117"
+        },
+        {
+            "request_domain": "360yield.com",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://ad.360yield.com/ul_cb/match?publisher_dsp_id=55&gdpr=1&consent=CPU3ks9PU3ks9AGABCENCDCoAPLAAAAAABpYIXNX_T7dbWNC-f59bvswO"
+        },
+        {
+            "request_domain": "adnxs.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://ib.adnxs.com/bounce?%2Fsetuid%3Fentity%3D101%26consent%3DCPU3ks9PU3ks9AGABCENCDCoAPLAAAAAABpYIXNX_T7dbWNC-f59bvswOYxf9tC"
+        },
+        {
+            "request_domain": "hotjar.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://vars.hotjar.com/box-acca23410e696f2ca3087d947271c3d0.html"
+        },
+        {
+            "request_domain": "scorecardresearch.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sb.scorecardresearch.com/b2?c1=2&c2=11464450&ns_site=total&cs_fpid=undefined&nmo_01=&nmo_02=1&nmo_05=0&nmo_10=1&nb_01=Sa"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 10,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/jtmx7vsaugzu_xwd1280.jpg/de-coronacijfers-van-vandaag.jpg"
+        },
+        {
+            "request_domain": "visualwebsiteoptimizer.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://dev.visualwebsiteoptimizer.com/7.0/va-3a8c03cc83fd9c554b5af6e1cc1ffa80.js"
+        },
+        {
+            "request_domain": "visualwebsiteoptimizer.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://dev.visualwebsiteoptimizer.com/v.gif?cd=0&a=323452&d=nu.nl&u=DFC23A8205CE5BFB77D9A945FE9132CE6&h=3e5c3563abf29a9709360cf"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/j/collect?v=1&_v=j96&aip=1&a=115149747&t=pageview&_s=1&dl=https%3A%2F%2Fwww.nu.nl%2F&ul=en&de=U"
+        },
+        {
+            "request_domain": "scorecardresearch.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://end.scorecardresearch.com/b2?c1=2&c2=11464450&ns_site=total&cs_fpid=undefined&nmo_01=&nmo_02=1&nmo_05=0&nmo_10=1&nb_01=S"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "pexi.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://widgets.pexi.nl/620cfcd61886c75/arrow.svg"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/gs/webSdk/Api.aspx?apiKey=3_7sfOtbY8gzx5ydlcXfJKWkcfkkzAnbMmbxVyRrSY57itzhCeED67Dv6CvQiYjY0X&version="
+        },
+        {
+            "request_domain": "doubleclick.net",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-10557259-1&cid=1196944136.1645630118&jid=1442275931&"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=115149747&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.nu.nl%2F&ul=en&de=U"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/dpns_sw.js"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/sdk.config.get?apiKey=3_7sfOtbY8gzx5ydlcXfJKWkcfkkzAnbMmbxVyRrSY57itzhCeED67Dv6CvQiYjY0X&httpStatusCo"
+        },
+        {
+            "request_domain": "visualwebsiteoptimizer.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://dev.visualwebsiteoptimizer.com/l.gif?experiment_id=438&account_id=323452&cu=https%3A%2F%2Fwww.nu.nl%2F&combination=2&s=1"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=115149747&t=event&ni=1&_s=2&dl=https%3A%2F%2Fwww.nu.nl%2F&ul=en&de=U"
+        },
+        {
+            "request_domain": "pbstck.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://intake.pbstck.com/v1/intake/page?sId=3dbe1a9f&tId=32608dbf-649c-46ca-b6ab-e58cbfad16a1&c=1&ctr=NL"
+        },
+        {
+            "request_domain": "visualwebsiteoptimizer.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://dev.visualwebsiteoptimizer.com/s.gif?account_id=323452&u=DFC23A8205CE5BFB77D9A945FE9132CE6&s=1645630119&p=1&tags={%22si%"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 22,
+            "num_response_cookies": 2,
+            "is_tracker": true,
+            "url_first_128_char": "https://accounts.nu.nl/accounts.webSdkBootstrap?apiKey=3_7sfOtbY8gzx5ydlcXfJKWkcfkkzAnbMmbxVyRrSY57itzhCeED67Dv6CvQiYjY0X&pageUR"
+        },
+        {
+            "request_domain": "dpns-notifications.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://config.dpns-notifications.com/configurations/HR1Six9P4RJiEToUrFrQv3PxNtL4Cuy9AGDMCzTUZfmHOqiHMmFZ0rE7PEIPrBdd/configurat"
+        },
+        {
+            "request_domain": "dpns-notifications.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://config.dpns-notifications.com/configurations/HR1Six9P4RJiEToUrFrQv3PxNtL4Cuy9AGDMCzTUZfmHOqiHMmFZ0rE7PEIPrBdd/configurat"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/gs/sso.htm?APIKey=3_tRk0U6OsjSYzePM9EAp0KdnBMcCR_qT8JPiM7bMb-ro3GoCbC_wtYaVchGKzHsSa&ssoSegment=nunl&"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/gs/sso.htm?APIKey=3_tRk0U6OsjSYzePM9EAp0KdnBMcCR_qT8JPiM7bMb-ro3GoCbC_wtYaVchGKzHsSa&ssoSegment=nunl&"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/sdk.config.get?apiKey=3_tRk0U6OsjSYzePM9EAp0KdnBMcCR_qT8JPiM7bMb-ro3GoCbC_wtYaVchGKzHsSa&httpStatusCo"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/sdk.config.get?apiKey=3_tRk0U6OsjSYzePM9EAp0KdnBMcCR_qT8JPiM7bMb-ro3GoCbC_wtYaVchGKzHsSa&httpStatusCo"
+        },
+        {
+            "request_domain": "newrelic.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://js-agent.newrelic.com/nr-1215.min.js"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=115149747&t=event&ni=1&_s=3&dl=https%3A%2F%2Fwww.nu.nl%2F&ul=en&de=U"
+        },
+        {
+            "request_domain": "facebook.net",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://connect.facebook.net/en_US/fbevents.js"
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://scdn.cxense.com/cx.js"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/js/sat.js"
+        },
+        {
+            "request_domain": "smartocto.com",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://tentacles.smartocto.com/ten/tentacle.js"
+        },
+        {
+            "request_domain": "dpgmmservices.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 2,
+            "is_tracker": false,
+            "url_first_128_char": "https://beak.bigdata.dpgmmservices.nl/0.1.84/track?1645630118546"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/molecules/usabilla/output-onlinepngtools.png"
+        },
+        {
+            "request_domain": "dpgmmservices.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 2,
+            "is_tracker": false,
+            "url_first_128_char": "https://beak.bigdata.dpgmmservices.nl/0.1.84/track?1645630118546"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/favicon/favicon.ico"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/api/manifest.webmanifest"
+        },
+        {
+            "request_domain": "nr-data.net",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://bam.nr-data.net/1/4702f272e2?a=883437927&v=1215.1253ab8&to=YgdVbUYHW0tWURFYXVtNcUxaBUFRWFxKUkdHEFJXQDlGUUNXS0dbUBVEF1cJR"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/favicon/favicon-32x32.png"
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdn.cxense.com/sp1.html"
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://api.cxense.com/profile/user/segment?callback=cXJsonpCBkzzpom3dd8ft9bc3&persisted=362a54f75d61844e7d6387fed23f72322e15750"
+        },
+        {
+            "request_domain": "smartocto.com",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://api.smartocto.com/api/brands/tentacles?i=es2mrqqfcre2at4ybctuhm2vq75jk9hy"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/gs/sso.htm?APIKey=3_tRk0U6OsjSYzePM9EAp0KdnBMcCR_qT8JPiM7bMb-ro3GoCbC_wtYaVchGKzHsSa&ssoSegment=nunl&"
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdn.cxense.com/cx.js"
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://p1cluster.cxense.com/p1.js"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/sdk.config.get?apiKey=3_tRk0U6OsjSYzePM9EAp0KdnBMcCR_qT8JPiM7bMb-ro3GoCbC_wtYaVchGKzHsSa&httpStatusCo"
+        },
+        {
+            "request_domain": "smartocto.com",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://tentacles.smartocto.com/ten/ingestion.js"
+        },
+        {
+            "request_domain": "contentinsights.com",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://ingestion.contentinsights.com/t?p=0%3Akzzpom74%3AhIAZI0xFHnRG6vnGdIfE_4LXlWelePkq&s=0%3Akzzpom74%3AHYt92pdEu06xQeWYXgCaE"
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://comcluster.cxense.com/Repo/rep.gif?ver=2.3.1&typ=pgv&rnd=kzzpom28mo6gni7x&sid=1144159668394663677&loc=https%3A%2F%2Fwww."
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://id.cxense.com/public/user/id?json=%7B%22identities%22%3A%5B%7B%22type%22%3A%22ckp%22%2C%22id%22%3A%22kzzpom35in7zqzc4%22"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=115149747&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.nu.nl%2F&ul=en&de=U"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/sat/sat.gif?log=1&evt=event&cid=&c_ver=2019.02.12.11.27.33%20b77487d&c_events=0&c_session=gruoo8a1i"
+        },
+        {
+            "request_domain": "creative-serving.com",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://ads.creative-serving.com/cm?redir=https%3A%2F%2Fcsyn.cxense.com%2Fpfm.png%3Fcxsite%3D1144159668394663677%26uuid%3D%24%7B"
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://csyn-r.cxense.com/?cxsite=1144159668394663677&partnerId=rub&gdpr=1&gdpr_consent=CPU3ks9PU3ks9AGABCENCDCoAPLAAAAAABpYIXNX"
+        },
+        {
+            "request_domain": "adnxs.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 2,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://secure.adnxs.com/getuid?https%3A%2F%2Fcsyn.cxense.com%2Fapn.png%3Fcxsite%3D1144159668394663677%26uid%3D%24UID%26cxckp%3D"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/sat/sat.gif?log=1&evt=pageview&cid=&c_ver=2019.02.12.11.27.33%20b77487d&c_events=1&c_session=gruoo8"
+        },
+        {
+            "request_domain": "rubiconproject.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 2,
+            "is_tracker": false,
+            "url_first_128_char": "https://token.rubiconproject.com/token?pid=34138&puid=1829ro2q1ur4d2763axdlilq2a&gdpr=1&gdpr_consent=CPU3ks9PU3ks9AGABCENCDCoAPL"
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://csyn.cxense.com/apn.png?cxsite=1144159668394663677&uid=676604621045272254&cxckp=cx%3Axth9dot3i3q02he2dz2wxkl7x%3A1btpeai"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=115149747&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.nu.nl%2F&ul=en&de=U"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/sat/sat.gif?log=1&evt=event&cid=&c_ver=2019.02.12.11.27.33%20b77487d&c_events=2&c_session=gruoo8a1i"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/7pxx7ptaypp7_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/543xiqwa0mty_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/5hcxk3uapzxp_xwd1280.jpg/nederlandse-inflatie-zit-ruim-boven-gemiddelde-in-volledige-eu.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/okwxaf1ao2dl_wd1280.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/ff2xgoeaw60w_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/m0cxhvvajmd0_wd320.jpg"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/sat/sat.gif?log=1&evt=event&cid=&c_ver=2019.02.12.11.27.33%20b77487d&c_events=3&c_session=gruoo8a1i"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/uybxcoea0og8_xwd1280.jpg/rol-klimaatverandering-op-stormen-onzeker-wel-sterkere-zuidwestenwind.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/clux9t0a6riu_xwd1280.jpg/snelle-tijden-geen-prioriteit-voor-verstappen-tijdens-testsessie-in-barcelona.jpg"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/sat/sat.gif?log=1&evt=event&cid=&c_ver=2019.02.12.11.27.33%20b77487d&c_events=4&c_session=gruoo8a1i"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/sat/sat.gif?log=1&evt=event&cid=&c_ver=2019.02.12.11.27.33%20b77487d&c_events=5&c_session=gruoo8a1i"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/m2exqtnam3qh_xwd1280.jpg/red-bull-valt-op-met-bijzondere-sidepods-veel-extremer-dan-de-rest.jpg"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/sat/sat.gif?log=1&evt=event&cid=&c_ver=2019.02.12.11.27.33%20b77487d&c_events=6&c_session=gruoo8a1i"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/zq6x70ra2nyf_xwd1280.jpg/review-elden-ring-is-net-dark-souls-maar-dan-grootser-en-mooier.jpg"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/sat/sat.gif?log=1&evt=event&cid=&c_ver=2019.02.12.11.27.33%20b77487d&c_events=7&c_session=gruoo8a1i"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/ud4xauva430s_xwd1280.jpg/personeel-museum-de-fundatie-wil-dat-directeur-vertrekt-zijn-wil-is-wet.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/hg8xo0raopz5_xwd1280.jpg/abba-zanger-bjorn-ulvaeus-gaat-na-huwelijk-van-41-jaar-scheiden.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/jzlxgsoaxw9i_xwd1280.jpg/dit-verdient-een-uitvaartverzorger.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/5voxhica3zz2_xwd1280.jpg/vermiste-rebecca-geeft-na-acht-jaar-stilte-een-teken-van-leven.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/dmrxru9a9n0i_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/r01xfp4a5w4a_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/riwxngeaw7e0_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/gicx2maa3mp2_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/zl1xh7walt7d_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/xhwxddrazb18_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/aazxncaawpp4_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/h53xqu3aan70_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/rf1x7cda8ge9_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/963xofma9eku_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/x86xdyxas1o8_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/ufyx9spa2ifd_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/ussxjsjact6k_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/y6gxbreauc0e_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/tsrxtx2az4ij_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/7gexlvkal7qc_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/b13xcqxa85lq_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/0kdxfq8a41de_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/3spx2dcajiaa_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/8o3x2kwapbyy_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/t7sxukuay0d8_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/c2lxtegahl6k_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/1n0xsv9aom3k_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/vjlxn82a10rv_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/4hyxizratbei_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/drdximnas7e0_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/j68x7apa6bpf_std320.jpg"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=115149747&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.nu.nl%2F&ul=en&de=U"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/sat/sat.gif?log=1&evt=event&cid=&c_ver=2019.02.12.11.27.33%20b77487d&c_events=8&c_session=gruoo8a1i"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "fonts.googleapis.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&subset=latin-ext"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/bundles/css/app.16d60ef6.css"
+        },
+        {
+            "request_domain": "dpgmedia.cloud",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://advertising-cdn.dpgmedia.cloud/web-advertising/13/0/4/advert-xandr.js"
+        },
+        {
+            "request_domain": "dpgmedia.cloud",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://advertising-cdn.dpgmedia.cloud/web-advertising/prebid.js"
+        },
+        {
+            "request_domain": "jquery.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://code.jquery.com/jquery-3.5.1.min.js"
+        },
+        {
+            "request_domain": "jwplatform.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://content.jwplatform.com/libraries/whqXCOFb.js"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/js/gigya.js?apiKey=3_7sfOtbY8gzx5ydlcXfJKWkcfkkzAnbMmbxVyRrSY57itzhCeED67Dv6CvQiYjY0X"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/bundles/js/fastjs.6526ab5b.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.1f96a412198e.js"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://login-static.dpgmedia.net/ssosession/main.js"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://myprivacy-static.dpgmedia.net/consent.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/nu_logo.svg?v=1"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/nuheart.svg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/125xvfsa59w6_xwd1280.jpg/vervoerders-op-volle-sterkte-ondanks-uitval-personeel.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/placeholders/wd320-o.png"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/placeholders/std320-o.png"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/nu_logo.svg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/dpgmedia-logo.svg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/logos/dpgmedia-logo-darkmode.svg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.c40b4e115a81.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/bundles/js/app.dc948809.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.fc57908ec4df.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.97a3ae6ffc52.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.a95c287dbd14.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/CACHE/js/output.315b0124ca47.js"
+        },
+        {
+            "request_domain": "dpgmmservices.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://account.dpgmmservices.nl/js/sa-data-service.min.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/js/organisms/tealium/nu.tealium.recommendations.js?v=6"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/js/organisms/topbar/init.js?v=6"
+        },
+        {
+            "request_domain": "googletagmanager.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.googletagmanager.com/gtm.js?id=GTM-N2NWCN7"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cmp.nu.nl/unified/wrapperMessagingWithoutDetection.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/vendor/fontawesome/fonts/fontawesome-webfont.eot?v=4.3.0"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/molecules/components/dotted_v.png"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 37,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/vendor/fontawesome/fonts/fontawesome-webfont.woff2?v=4.3.0"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cmp.nu.nl/unified/3.4.0/gdpr-tcf.1c6fa4a355d1d368d602.bundle.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cmp.nu.nl/wrapper/v2/get_messages?requestUUID=e10ffacc-3895-40f0-911f-dff496e6504f&hasCsp=true&env=prod"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cmp.nu.nl/wrapper/v2/get_messages?requestUUID=e10ffacc-3895-40f0-911f-dff496e6504f&hasCsp=true&env=prod"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://sp.dpgmedia.net/Cd47FPkRXzy5tMeertNeUPW_v3.js"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/analytics.js"
+        },
+        {
+            "request_domain": "hotjar.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://static.hotjar.com/c/hotjar-232068.js?sv=7"
+        },
+        {
+            "request_domain": "googletagmanager.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.googletagmanager.com/gtm.js?id=GTM-TK3PJZT&l=dataLayer"
+        },
+        {
+            "request_domain": "smartclip.net",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://ad.sxp.smartclip.net/ads?type=dyn&plc=109248&sz=1x1&consent=undefined&rnd=1645630126"
+        },
+        {
+            "request_domain": "plista.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://static-nl.plista.com/async/min.js"
+        },
+        {
+            "request_domain": "dpgmmservices.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 2,
+            "is_tracker": false,
+            "url_first_128_char": "https://beak.bigdata.dpgmmservices.nl/1.0/track"
+        },
+        {
+            "request_domain": "scorecardresearch.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sb.scorecardresearch.com/cs/11464450/beacon.js"
+        },
+        {
+            "request_domain": "pbstck.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://boot.pbstck.com/v1/tag/32608dbf-649c-46ca-b6ab-e58cbfad16a1"
+        },
+        {
+            "request_domain": "digitalaudience.io",
+            "server_country": "France",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://target.digitalaudience.io/bakery/pix/p/dap_200423/2ac3f582-b4bc-4fc5-8c8e-808b8e781079?rn=361"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 38,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/api/config/live_database_shards"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://talk.nu.nl/static/embed.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 38,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/block/lean_json/articlelist?limit=20&offset=0&source=latest&filter=site"
+        },
+        {
+            "request_domain": "dpgmedia.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 4,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://login.dpgmedia.nl/ssosession"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/sdk.config.get?apiKey=3_7sfOtbY8gzx5ydlcXfJKWkcfkkzAnbMmbxVyRrSY57itzhCeED67Dv6CvQiYjY0X&httpStatusCo"
+        },
+        {
+            "request_domain": "gstatic.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://fonts.gstatic.com/s/notosans/v25/o-0IIpQlx3QUlC5A4PNr5TRA.woff2"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/m0cxhvvajmd0_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/543xiqwa0mty_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/ff2xgoeaw60w_wd320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/7pxx7ptaypp7_wd320.jpg"
+        },
+        {
+            "request_domain": "scorecardresearch.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sb.scorecardresearch.com/internal-cs/default/beacon.js"
+        },
+        {
+            "request_domain": "usabilla.com",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://w.usabilla.com/b015eda4e668.js?lv=1"
+        },
+        {
+            "request_domain": "adnxs.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 2,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://secure.adnxs.com/getuid?https%3A%2F%2Ftarget.digitalaudience.io%2Fbakery%2Fsync%2Fs%3Fpartner%3Dappnexus%26str%3D5932547"
+        },
+        {
+            "request_domain": "adnxs.com",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://acdn.adnxs.com/ast/ast.js"
+        },
+        {
+            "request_domain": "brandmetrics.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cdn.brandmetrics.com/survey/script/d07e0dadbafb478da44a6551e12d4416.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 38,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/vendor/vwo/vwo-v2.js"
+        },
+        {
+            "request_domain": "doubleclick.net",
+            "server_country": "Portugal",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cm.g.doubleclick.net/pixel?google_nid=improvedigital&google_cm&google_sc&gdpr=1&consent=CPU3ks9PU3ks9AGABCENCDCoAPLAAAAA"
+        },
+        {
+            "request_domain": "doubleclick.net",
+            "server_country": "Portugal",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cm.g.doubleclick.net/pixel?google_nid=appnexus&google_cm&google_sc&google_dbm&consent=CPU3ks9PU3ks9AGABCENCDCoAPLAAAAAAB"
+        },
+        {
+            "request_domain": "hotjar.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://script.hotjar.com/modules.2219a8a77299faf480a7.js"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/d2gxhoiawdq0_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/xfoxziras0t8_std320.jpg"
+        },
+        {
+            "request_domain": "digitalaudience.io",
+            "server_country": "France",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://target.digitalaudience.io/bakery/sync/s?partner=appnexus&str=59325471&cart=2&pub=dap_200423&adfid=676604621045272254&gdp"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/plugins/ua/linkid.js"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "pbstck.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cdn.pbstck.com/index-monitoring-8ac652b.js"
+        },
+        {
+            "request_domain": "360yield.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 4,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://ad.360yield.com/match?publisher_dsp_id=55&gdpr=1&consent=CPU3ks9PU3ks9AGABCENCDCoAPLAAAAAABpYIXNX_T7dbWNC-f59bvswOYxf9tC"
+        },
+        {
+            "request_domain": "scorecardresearch.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sb.scorecardresearch.com/b?c1=2&c2=11464450&ns_site=total&cs_fpid=2ac3f582-b4bc-4fc5-8c8e-808b8e781079&nmo_01=&nmo_02=0&"
+        },
+        {
+            "request_domain": "adnxs.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 2,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://ib.adnxs.com/setuid?entity=101&consent=CPU3ks9PU3ks9AGABCENCDCoAPLAAAAAABpYIXNX_T7dbWNC-f59bvswOYxf9tCNJ-QjABaJJ2gBwRqQM"
+        },
+        {
+            "request_domain": "hotjar.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://vars.hotjar.com/box-acca23410e696f2ca3087d947271c3d0.html"
+        },
+        {
+            "request_domain": "plista.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://static-nl.plista.com/async/pub/49f8bd5b5ee26a46b1d29b12.js"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/gs/webSdk/Api.aspx?apiKey=3_7sfOtbY8gzx5ydlcXfJKWkcfkkzAnbMmbxVyRrSY57itzhCeED67Dv6CvQiYjY0X&version="
+        },
+        {
+            "request_domain": "visualwebsiteoptimizer.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://dev.visualwebsiteoptimizer.com/j.php?a=323452&u=https%3A%2F%2Fwww.nu.nl%2Feconomie%2F6185623%2Fvervoerders-op-volle-ster"
+        },
+        {
+            "request_domain": "brandmetrics.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cdn.brandmetrics.com/scripts/bundle/69834047.js"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=2146041170&t=pageview&_s=1&dl=https%3A%2F%2Fwww.nu.nl%2Feconomie%2F6"
+        },
+        {
+            "request_domain": "visualwebsiteoptimizer.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://dev.visualwebsiteoptimizer.com/v.gif?cd=0&a=323452&d=nu.nl&u=DFC23A8205CE5BFB77D9A945FE9132CE6&h=3e5c3563abf29a9709360cf"
+        },
+        {
+            "request_domain": "brandmetrics.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://collector.brandmetrics.com/c.js?siteid=d07e0dad-bafb-478d-a44a-6551e12d4416&toploc=www.nu.nl&rnd=3662888"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/sdk.config.get?apiKey=3_7sfOtbY8gzx5ydlcXfJKWkcfkkzAnbMmbxVyRrSY57itzhCeED67Dv6CvQiYjY0X&httpStatusCo"
+        },
+        {
+            "request_domain": "scorecardresearch.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://end.scorecardresearch.com/b?c1=2&c2=11464450&ns_site=total&cs_fpid=2ac3f582-b4bc-4fc5-8c8e-808b8e781079&nmo_01=&nmo_02=0"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/gs/sso.htm?APIKey=3_tRk0U6OsjSYzePM9EAp0KdnBMcCR_qT8JPiM7bMb-ro3GoCbC_wtYaVchGKzHsSa&ssoSegment=nunl&"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/gs/sso.htm?APIKey=3_tRk0U6OsjSYzePM9EAp0KdnBMcCR_qT8JPiM7bMb-ro3GoCbC_wtYaVchGKzHsSa&ssoSegment=nunl&"
+        },
+        {
+            "request_domain": "dpns-notifications.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://config.dpns-notifications.com/configurations/HR1Six9P4RJiEToUrFrQv3PxNtL4Cuy9AGDMCzTUZfmHOqiHMmFZ0rE7PEIPrBdd/configurat"
+        },
+        {
+            "request_domain": "dpns-notifications.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://config.dpns-notifications.com/configurations/HR1Six9P4RJiEToUrFrQv3PxNtL4Cuy9AGDMCzTUZfmHOqiHMmFZ0rE7PEIPrBdd/configurat"
+        },
+        {
+            "request_domain": "pbstck.com",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://intake.pbstck.com/v1/intake/page?sId=3dbe1a9f&tId=32608dbf-649c-46ca-b6ab-e58cbfad16a1&c=1&ctr=NL"
+        },
+        {
+            "request_domain": "doubleclick.net",
+            "server_country": "Portugal",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://cm.g.doubleclick.net/pixel?google_nid=improvedigital&google_sc&google_hm=NmIzNjI2MjctNjcxYy00MzIxLWIyNTgtNTJkODY0N2QxZjB"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/sdk.config.get?apiKey=3_tRk0U6OsjSYzePM9EAp0KdnBMcCR_qT8JPiM7bMb-ro3GoCbC_wtYaVchGKzHsSa&httpStatusCo"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/sdk.config.get?apiKey=3_tRk0U6OsjSYzePM9EAp0KdnBMcCR_qT8JPiM7bMb-ro3GoCbC_wtYaVchGKzHsSa&httpStatusCo"
+        },
+        {
+            "request_domain": "creative-serving.com",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://ads.creative-serving.com/cm?redir=https%3A%2F%2Ftarget.digitalaudience.io%2Fbakery%2Fsync%2Fs%3Fpartner%3Dp161%26str%3D5"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/gs/sso.htm?APIKey=3_tRk0U6OsjSYzePM9EAp0KdnBMcCR_qT8JPiM7bMb-ro3GoCbC_wtYaVchGKzHsSa&ssoSegment=nunl&"
+        },
+        {
+            "request_domain": "gigya.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 3,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://cdns.eu1.gigya.com/sdk.config.get?apiKey=3_tRk0U6OsjSYzePM9EAp0KdnBMcCR_qT8JPiM7bMb-ro3GoCbC_wtYaVchGKzHsSa&httpStatusCo"
+        },
+        {
+            "request_domain": "newrelic.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://js-agent.newrelic.com/nr-1215.min.js"
+        },
+        {
+            "request_domain": "facebook.net",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://connect.facebook.net/en_US/fbevents.js"
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://scdn.cxense.com/cx.js"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/js/sat.js"
+        },
+        {
+            "request_domain": "smartocto.com",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://tentacles.smartocto.com/ten/tentacle.js"
+        },
+        {
+            "request_domain": "dpgmmservices.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 2,
+            "is_tracker": false,
+            "url_first_128_char": "https://beak.bigdata.dpgmmservices.nl/0.1.84/track?1645630127091"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 38,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/molecules/usabilla/output-onlinepngtools.png"
+        },
+        {
+            "request_domain": "dpgmmservices.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 2,
+            "is_tracker": false,
+            "url_first_128_char": "https://beak.bigdata.dpgmmservices.nl/0.1.84/track?1645630127091"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 38,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/static/img/atoms/images/favicon/favicon.ico"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://www.nu.nl/api/manifest.webmanifest"
+        },
+        {
+            "request_domain": "nr-data.net",
+            "server_country": "United States",
+            "server_in_eu": false,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://bam.nr-data.net/1/4702f272e2?a=883437927&v=1215.1253ab8&to=YgdVbUYHW0tWURFYXVtNcUxaBUFRWFxKUkdHEFJXQDlGUUNXS0dbUBVEF1cJR"
+        },
+        {
+            "request_domain": "smartocto.com",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://tentacles.smartocto.com/ten/ingestion.js"
+        },
+        {
+            "request_domain": "contentinsights.com",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://ingestion.contentinsights.com/t?p=0%3Akzzpom74%3AhIAZI0xFHnRG6vnGdIfE_4LXlWelePkq&s=0%3Akzzpom74%3AHYt92pdEu06xQeWYXgCaE"
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://api.cxense.com/profile/user/segment?callback=cXJsonpCBkzzposomko3vmuyo&persisted=362a54f75d61844e7d6387fed23f72322e15750"
+        },
+        {
+            "request_domain": "creative-serving.com",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://ads.creative-serving.com/cm?redir=https%3A%2F%2Fcsyn.cxense.com%2Fpfm.png%3Fcxsite%3D1144159668394663677%26uuid%3D%24%7B"
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://csyn-r.cxense.com/?cxsite=1144159668394663677&partnerId=rub&gdpr=1&gdpr_consent=CPU3ks9PU3ks9AGABCENCDCoAPLAAAAAABpYIXNX"
+        },
+        {
+            "request_domain": "adnxs.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 2,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://secure.adnxs.com/getuid?https%3A%2F%2Fcsyn.cxense.com%2Fapn.png%3Fcxsite%3D1144159668394663677%26uid%3D%24UID%26cxckp%3D"
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Germany",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://comcluster.cxense.com/Repo/rep.gif?ver=2.3.1&typ=pgv&rnd=kzzposnls0q0uwa7&sid=1144159668394663677&loc=https%3A%2F%2Fwww."
+        },
+        {
+            "request_domain": "rubiconproject.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 2,
+            "num_response_cookies": 1,
+            "is_tracker": false,
+            "url_first_128_char": "https://token.rubiconproject.com/token?pid=34138&puid=1829ro2q1ur4d2763axdlilq2a&gdpr=1&gdpr_consent=CPU3ks9PU3ks9AGABCENCDCoAPL"
+        },
+        {
+            "request_domain": "cxense.com",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://csyn.cxense.com/apn.png?cxsite=1144159668394663677&uid=676604621045272254&cxckp=cx%3Axth9dot3i3q02he2dz2wxkl7x%3A1btpeai"
+        },
+        {
+            "request_domain": "contentinsights.com",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://ingestion.contentinsights.com/c?p=0%3Akzzpom74%3AhIAZI0xFHnRG6vnGdIfE_4LXlWelePkq&s=0%3Akzzpom74%3AHYt92pdEu06xQeWYXgCaE"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/sat/sat.gif?log=1&evt=pageview&cid=6185623&c_ver=2019.02.12.11.27.33%20b77487d&c_events=0&c_session"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/6vtxxwfaozkb_std320.jpg"
+        },
+        {
+            "request_domain": "nu.nl",
+            "server_country": "Netherlands",
+            "server_in_eu": true,
+            "num_request_cookies": 29,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://media.nu.nl/m/m1oxoahabh1o_std320.jpg"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=2146041170&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.nu.nl%2Feconomie%2"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/sat/sat.gif?log=1&evt=event&cid=6185623&c_ver=2019.02.12.11.27.33%20b77487d&c_events=1&c_session=gr"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "google-analytics.com",
+            "server_country": "Finland",
+            "server_in_eu": true,
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://www.google-analytics.com/collect?v=1&_v=j96&aip=1&a=2146041170&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.nu.nl%2Feconomie%2"
+        },
+        {
+            "request_domain": "313.nl",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 0,
+            "is_tracker": false,
+            "url_first_128_char": "https://sat.public.bd.313.nl/sat/sat.gif?log=1&evt=event&cid=6185623&c_ver=2019.02.12.11.27.33%20b77487d&c_events=2&c_session=gr"
+        },
+        {
+            "request_domain": "plista.com",
+            "server_country": "unknown",
+            "server_in_eu": "unknown",
+            "num_request_cookies": 0,
+            "num_response_cookies": 0,
+            "is_tracker": true,
+            "url_first_128_char": "https://farm-nl.plista.com/async_lib.js?json=%7B%22name%22%3A%22PLISTA_%5B0%5D%22%2C%22publickey%22%3A%2249f8bd5b5ee26a46b1d29b1"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        },
+        {
+            "request_domain": "dpgmedia.net",
+            "server_country": "Ireland",
+            "server_in_eu": true,
+            "num_request_cookies": 1,
+            "num_response_cookies": 1,
+            "is_tracker": true,
+            "url_first_128_char": "https://c.dpgmedia.net/a/b"
+        }
+    ]
+}

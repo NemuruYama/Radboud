@@ -1,0 +1,81 @@
+cmake_minimum_required(VERSION 3.20)
+project(PREfast)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(sdkinclude)
+include_directories(sdkvcinclude)
+include_directories(sdkvcinclude/CodeAnalysis)
+
+add_executable(PREfast
+        sdkinclude/BaseTsd.h
+        sdkinclude/CdErr.h
+        sdkinclude/CommDlg.h
+        sdkinclude/Dde.h
+        sdkinclude/Dlgs.h
+        sdkinclude/Guiddef.h
+        sdkinclude/Imm.h
+        sdkinclude/ktmtypes.h
+        sdkinclude/LZExpand.h
+        sdkinclude/Mcx.h
+        sdkinclude/MMSystem.h
+        sdkinclude/Nb30.h
+        sdkinclude/ole.h
+        sdkinclude/Ole2.h
+        sdkinclude/PopPack.h
+        sdkinclude/PshPack1.h
+        sdkinclude/PshPack2.h
+        sdkinclude/PshPack4.h
+        sdkinclude/PshPack8.h
+        sdkinclude/Reason.h
+        sdkinclude/Rpc.h
+        sdkinclude/sdkddkver.h
+        sdkinclude/ShellAPI.h
+        sdkinclude/specstrings.h
+        sdkinclude/specstrings_adt.h
+        sdkinclude/specstrings_strict.h
+        sdkinclude/specstrings_undef.h
+        sdkinclude/StrAlign.h
+        sdkinclude/Tvout.h
+        sdkinclude/WinBase.h
+        sdkinclude/WinBase.Inl
+        sdkinclude/WinCon.h
+        sdkinclude/WinCrypt.h
+        sdkinclude/WinDef.h
+        sdkinclude/Windows.h
+        sdkinclude/WinEFS.h
+        sdkinclude/WinError.h
+        sdkinclude/WinGDI.h
+        sdkinclude/WinNetWk.h
+        sdkinclude/WinNls.h
+        sdkinclude/WinNT.h
+        sdkinclude/WinPerf.h
+        sdkinclude/WinReg.h
+        sdkinclude/WinResrc.h
+        sdkinclude/WinSCard.h
+        sdkinclude/WinSock.h
+        sdkinclude/WinSpool.h
+        sdkinclude/WinSvc.h
+        sdkinclude/WinUser.h
+        sdkinclude/WinVer.h
+        sdkvcinclude/CodeAnalysis/sourceannotations.h
+        sdkvcinclude/CodeAnalysis/Warnings.h
+        sdkvcinclude/crtassem.h
+        sdkvcinclude/crtdefs.h
+        sdkvcinclude/ctype.h
+        sdkvcinclude/excpt.h
+        sdkvcinclude/limits.h
+        sdkvcinclude/malloc.h
+        sdkvcinclude/memory.h
+        sdkvcinclude/sal.h
+        sdkvcinclude/stdafx.h
+        sdkvcinclude/stdarg.h
+        sdkvcinclude/stddef.h
+        sdkvcinclude/stdexcpt.h
+        sdkvcinclude/stdio.h
+        sdkvcinclude/stdlib.h
+        sdkvcinclude/string.h
+        sdkvcinclude/swprintf.inl
+        sdkvcinclude/tchar.h
+        sdkvcinclude/vadefs.h
+        LucasVanDerLaan_prefast_exercise.cpp)
