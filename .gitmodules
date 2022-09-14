@@ -7,3 +7,6 @@
 [submodule "Design of Embedded Systems/Assignments/Assignments-Xenomai"]
 	path = Design of Embedded Systems/Assignments/Xenomai
 	url = https://github.com/Design-of-Embedded-Systems-Group-17/Assignments-Xenomai
+[submodule "Software Product Lines/Assignments/ChatApp"]
+	path = Software Product Lines/Assignments/ChatApp
+	url = git@github.com:trexwin/ChatApp.git
