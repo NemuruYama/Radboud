@@ -1,0 +1,33 @@
+[submodule "Capita Selecta in Cyber Security/Assignments/Assignment-2"]
+	path = Capita Selecta in Cyber Security/Assignments/Assignment-2
+	url = https://github.com/Capita-Selecta-Group-12/Assignment-2
+[submodule "FunctionalProgrammingRadboud"]
+	path = Functional_Programming
+	url = https://github.com/NemuruYama/FunctionalProgrammingRadboud
+[submodule "Design of Embedded Systems/Assignments/Assignments-Xenomai"]
+	path = Design of Embedded Systems/Assignments/Xenomai
+	url = https://github.com/Design-of-Embedded-Systems-Group-17/Assignments-Xenomai
+[submodule "Software Product Lines/Assignments/ChatApp"]
+	path = Software Product Lines/Assignments/ChatApp
+	url = git@github.com:trexwin/ChatApp.git
+[submodule "Engineering Cryptographic Software/Assignment/Project"]
+	path = Engineering Cryptographic Software/Assignment/Project
+	url = git@github.com:Engineering-Cryptographic-Software-27/Project.git
+[submodule "Physical Attacks on Secure Systems/Assignments/Assignments"]
+	path = Physical Attacks on Secure Systems/Assignments/Group
+	url = git@github.com:Phystical-Attacks-on-Secure-Systems-G1/Assignments.git
+[submodule "Advanced Network Security/Assignment/nope-dev-server"]
+	path = Advanced Network Security/Assignment/nope-dev-server
+	url = git@github.com:Advanced-Network-Security-Group-1/nope-dev-server.git
+[submodule "Advanced Network Security/Assignment/nope-core"]
+	path = Advanced Network Security/Assignment/nope-core
+	url = git@github.com:Advanced-Network-Security-Group-1/nope-core.git
+[submodule "Advanced Network Security/Assignment/nope-obfuscator-steg-text"]
+	path = Advanced Network Security/Assignment/nope-obfuscator-steg-text
+	url = git@github.com:Advanced-Network-Security-Group-1/nope-obfuscator-steg-text.git
+[submodule "Advanced Network Security/Assignment/HTMLParsingTest"]
+	path = Advanced Network Security/Assignment/HTMLParsingTest
+	url = git@github.com:Advanced-Network-Security-Group-1/HTMLParsingTest.git
+[submodule "Advanced Network Security/Assignment/nope-obfuscator-steg-dummy"]
+	path = Advanced Network Security/Assignment/nope-obfuscator-steg-dummy
+	url = git@github.com:Advanced-Network-Security-Group-1/nope-obfuscator-steg-dummy.git
