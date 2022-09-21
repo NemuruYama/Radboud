@@ -31,3 +31,6 @@
 [submodule "Advanced Network Security/Assignment/nope-obfuscator-steg-dummy"]
 	path = Advanced Network Security/Assignment/nope-obfuscator-steg-dummy
 	url = git@github.com:Advanced-Network-Security-Group-1/nope-obfuscator-steg-dummy.git
+[submodule "Operating System Concepts/Assignments/Assignment-1-Shell"]
+	path = Operating System Concepts/Assignments/Assignment-1-Shell
+	url = git@github.com:Operating-System-Concepts-2022-Group-55/Assignment-1-Shell.git
