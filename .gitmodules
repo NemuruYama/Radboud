@@ -34,3 +34,6 @@
 [submodule "Operating System Concepts/Assignments/Assignment-1-Shell"]
 	path = Operating System Concepts/Assignments/Assignment-1-Shell
 	url = git@github.com:Operating-System-Concepts-2022-Group-55/Assignment-1-Shell.git
+[submodule "Operating System Concepts/Assignments/Assignment-2-Synchronization"]
+	path = Operating System Concepts/Assignments/Assignment-2-Synchronization
+	url = git@github.com:Operating-System-Concepts-2022-Group-55/Assignment-2-Synchronization.git
