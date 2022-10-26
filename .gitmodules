@@ -4,9 +4,6 @@
 [submodule "FunctionalProgrammingRadboud"]
 	path = Functional_Programming
 	url = https://github.com/NemuruYama/FunctionalProgrammingRadboud
-[submodule "Design of Embedded Systems/Assignments/Assignments-Xenomai"]
-	path = Design of Embedded Systems/Assignments/Xenomai
-	url = https://github.com/Design-of-Embedded-Systems-Group-17/Assignments-Xenomai
 [submodule "Software_Product_Lines/Assignments/ChatApp"]
 	path = Software_Product_Lines/Assignments/ChatApp
 	url = git@github.com:trexwin/ChatApp.git
@@ -37,9 +34,12 @@
 [submodule "Operating-System-Concepts/Assignments/Assignment-2-Synchronization"]
 	path = Operating-System-Concepts/Assignments/Assignment-2-Synchronization
 	url = git@github.com:Operating-System-Concepts-2022-Group-55/Assignment-2-Synchronization.git
-[submodule "Design of Embedded Systems/Assignments/Assignment-Robot"]
-	path = Design of Embedded Systems/Assignments/Robot
-	url = git@github.com:Design-of-Embedded-Systems-Group-17/Assignment-Robot.git
 [submodule "Operating-System-Concepts/Assignments/Assignment-3-Memory"]
 	path = Operating-System-Concepts/Assignments/Assignment-3-Memory
 	url = git@github.com:Operating-System-Concepts-2022-Group-55/Assignment-3-Memory.git
+[submodule "Design-of-Embedded-Systems/Assignments/Assignment-Robot"]
+	path = Design-of-Embedded-Systems/Assignments/Robot
+	url = git@github.com:Design-of-Embedded-Systems-Group-17/Assignment-Robot.git
+[submodule "Design-of-Embedded-Systems/Assignments/Assignments-Xenomai"]
+	path = Design-of-Embedded-Systems/Assignments/Xenomai
+	url = git@github.com:Design-of-Embedded-Systems-Group-17/Assignments-Xenomai.git
