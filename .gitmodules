@@ -40,3 +40,6 @@
 [submodule "Design of Embedded Systems/Assignments/Assignment-Robot"]
 	path = Design of Embedded Systems/Assignments/Robot
 	url = git@github.com:Design-of-Embedded-Systems-Group-17/Assignment-Robot.git
+[submodule "Operating-System-Concepts/Assignments/Assignment-3-Memory"]
+	path = Operating-System-Concepts/Assignments/Assignment-3-Memory
+	url = git@github.com:Operating-System-Concepts-2022-Group-55/Assignment-3-Memory.git
