@@ -37,3 +37,6 @@
 [submodule "Operating System Concepts/Assignments/Assignment-2-Synchronization"]
 	path = Operating System Concepts/Assignments/Assignment-2-Synchronization
 	url = git@github.com:Operating-System-Concepts-2022-Group-55/Assignment-2-Synchronization.git
+[submodule "Design of Embedded Systems/Assignments/Assignment-Robot"]
+	path = Design of Embedded Systems/Assignments/Robot
+	url = git@github.com:Design-of-Embedded-Systems-Group-17/Assignment-Robot.git
