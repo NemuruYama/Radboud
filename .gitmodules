@@ -43,3 +43,6 @@
 [submodule "Design-of-Embedded-Systems/Assignments/Assignments-Xenomai"]
 	path = Design-of-Embedded-Systems/Assignments/Xenomai
 	url = git@github.com:Design-of-Embedded-Systems-Group-17/Assignments-Xenomai.git
+[submodule "Algorithms and Datastructures/Practicals/Assignment-2"]
+	path = Algorithms and Datastructures/Practicals/Practical-1-Restocking
+	url = git@github.com:Algorithms-and-Data-Structures-Group-55/Assignment-2.git
